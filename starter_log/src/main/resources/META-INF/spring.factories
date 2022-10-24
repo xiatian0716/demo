@@ -1,0 +1,4 @@
+# Auto Configure
+# 1.告诉spring的配置类位置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.logstarter.configuration.LogAutoConfiguration
